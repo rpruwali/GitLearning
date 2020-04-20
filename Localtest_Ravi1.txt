@@ -1,2 +1,7 @@
 Changes made in ravi1 brnach
+<<<<<<< HEAD
 changes made in Master
+sencond change made in Ravi1 branch
+=======
+
+>>>>>>> ravi1
